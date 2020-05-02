@@ -2,6 +2,8 @@ Hi users,
 This is Akansh Jha.
 You can use this executable file, to extract your zip files. Following are the steps you can perform -
 
+NOTE : It does not unzip the password protected files.
+
 1. Download this 'UnzipFiles.exe' file.
 2. Collect all the zip files, to be unzipped, in a folder.
 3. Copy this 'UnzipFiles.exe' file in the same folder with other zips.
